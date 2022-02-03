@@ -1,0 +1,26 @@
+
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+  
+  /* Set Legend Style */
+  .info {
+    padding: 1px 10px;
+    background: #dae0e0;
+  
+  }
+  
+  .legend {
+    line-height: 20px;
+    color: #250202;
+  }
+  
+  .legend i {
+    width: 15px;
+    height: 10px;
+    float: left;
+    margin-right: 10px;
+   
+}
